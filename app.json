@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "YouFitInventoryApp",
+    "slug": "youfitinventoryapp",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.youfit.inventory",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.youfit.inventory",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}
