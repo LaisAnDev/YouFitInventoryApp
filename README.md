@@ -8,11 +8,8 @@ Tecnologias Utilizadas
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
-- [React Navigation](https://reactnavigation.org/)
-- [React Native Paper](https://callstack.github.io/react-native-paper/)
 - [Async Storage](https://react-native-async-storage.github.io/async-storage/)
-- [React Native Chart Kit](https://github.com/indiespirit/react-native-chart-kit)
-- [UUID](https://github.com/uuidjs/uuid)
+
 
 
 Funcionalidades
